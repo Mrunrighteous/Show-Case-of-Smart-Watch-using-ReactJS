@@ -1,0 +1,18 @@
+body{
+    font-family: sans-serif;
+  }
+  .topBar{
+    background-color: #282c34;
+    width:100%;
+    padding: 24px 48px 12px;
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+  .topBar > p {
+    margin: 0%;
+    padding: 2px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+  }
